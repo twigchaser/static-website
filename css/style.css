@@ -1,8 +1,13 @@
 body {
     
-    background-color: blanchedalmond;
+    background-color:burlywood;
 }
    h1 , h2
     {
         color:blue; 
+    }
+
+    p
+    {
+        color:darkcyan;
     }
