@@ -11,3 +11,9 @@ body {
     {
         color:darkcyan;
     }
+
+    #my-avatar {
+        
+        width: 250px;
+        border-radius : 50%;
+    }
