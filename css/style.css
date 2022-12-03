@@ -30,3 +30,23 @@ body {
         font-family: 'Handlee', cursive;
         color: #787A91;
     }
+
+   #left-side {
+    width: 49%;
+    display: inline-block;
+    margin-left: 1%;
+    margin-top: 10px;
+   }
+
+   #right-side {
+    width: 47%;
+    display: inline-block;
+    text-align: right;
+    margin-right: 2%;
+   }
+
+   a {
+    color: #EEEEEE;
+    text-decoration: none;
+    border-bottom: 1px dotted #787A91;
+   }
