@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya&family=Handlee&display=swap');
+
 body {
     
-    background-color:burlywood;
+    background-color: #330000;
+    font-family: 'Alegreya', serif;
 }
    h1 , h2
     {
@@ -21,4 +24,8 @@ body {
     #content
     {
         text-align: center;
+    }
+
+    #my-name {
+        font-family: 'Handlee', cursive;
     }
