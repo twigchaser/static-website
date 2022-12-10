@@ -49,13 +49,14 @@ body {
     width: 47%;
     display: inline-block;
     text-align: right;
-    margin-right: 2%;
+    margin-right: 1%;
    }
 
    a {
     color: #EEEEEE;
     text-decoration: none;
     border-bottom: 1px dotted #787A91;
+    margin-right: 10px;
    }
 
    footer {
@@ -68,4 +69,12 @@ body {
 
    footer a:first-child {
     margin-right: 16px;
+   }
+
+   #content div {
+    width: 60%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
    }
