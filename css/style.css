@@ -80,3 +80,21 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
    }
+
+   /* Project page */
+
+   #hero-banner {
+    background: linear-gradient(360deg,#141E61, #787A91);
+    }
+
+   #hero-banner > div {
+    width: 50%;
+    margin-top: 0;
+    margin-right: auto;
+    margin-bottom: 0;
+    margin-left: auto;
+   }
+
+   #hero-banner > div > div {
+    display: inline-block;
+    }
