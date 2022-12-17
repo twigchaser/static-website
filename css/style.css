@@ -24,7 +24,7 @@ body {
 
     #my-avatar {
         
-        width: 250px;
+        width: 150px;
         border-radius : 50%;
     }
 
@@ -85,16 +85,25 @@ body {
 
    #hero-banner {
     background: linear-gradient(360deg,#141E61, #787A91);
+    padding-top: 16px;
+    padding-bottom: 16px;
     }
 
    #hero-banner > div {
     width: 50%;
-    margin-top: 0;
-    margin-right: auto;
-    margin-bottom: 0;
-    margin-left: auto;
+    margin: 0 auto
    }
 
    #hero-banner > div > div {
     display: inline-block;
+    }
+
+   /* #hero-banner h1, 
+    #hero-banner h2 {
+        color: white;
+    } */
+
+    h3 {
+        text-align: center;
+        font-size: 32px;
     }
