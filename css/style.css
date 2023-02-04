@@ -112,9 +112,21 @@ body {
 header {
     margin-top: 16px;
 }
-
    header > nav {
     display: flex;
-    justify-content: space-around;
-
+    justify-content: space-evenly;
    }
+
+
+   footer {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%; 
+   }
+   footer > a > svg {
+    width: 24px;
+    height: 24px;
+    margin-right: 8px;
+    fill: #EEEEEE;
+   }
+
