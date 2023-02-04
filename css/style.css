@@ -107,3 +107,14 @@ body {
         text-align: center;
         font-size: 32px;
     }
+
+   /* For v2.0 */
+header {
+    margin-top: 16px;
+}
+
+   header > nav {
+    display: flex;
+    justify-content: space-around;
+
+   }
